@@ -23,9 +23,9 @@ total_rewards = [0] * num_actions
 
 
 # Define wandb run parameters and start the wandb logging run
-run_name = "ucb"
-project_name = "DESERT"
-wandb.init(name=run_name, project=project_name, tags=["static"], entity="unwis24", reinit=True)
+run_name = "INSERT NAME"
+project_name = "INSERT NAME"
+wandb.init(name=run_name, project=project_name, tags=["static"], entity="INSERT NAME", reinit=True)
 
 
 # Function to select an action using UCB1
