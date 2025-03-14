@@ -80,7 +80,7 @@ chmod +x Bash_simulation.sh  # Make the script executable
 AMUSE was designed and developed as part of our research. The following publications provide a detailed explanation of its implementation, methodology, and performance evaluation:
 
 ### 📌 Conference Paper:
-**Busacca, F., Galluccio, L., Palazzo, S., Panebianco, A., & Raftopoulos, R. (2024, June).**  
+**Busacca, F., Galluccio, L., Palazzo, S., Panebianco, A., & Raftopoulos, R. (2024).**  
 *Adaptive modulation in underwater acoustic networks (AMUSE): A multi-armed bandit approach.*  
 In **ICC 2024 - IEEE International Conference on Communications** (pp. 2336-2341). IEEE.  
 🔗 [IEEE Xplore (official version)](https://doi.org/10.1109/ICC51166.2024.10623120)  
