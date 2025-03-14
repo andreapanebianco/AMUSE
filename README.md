@@ -86,7 +86,7 @@ In **ICC 2024 - IEEE International Conference on Communications** (pp. 2336-2341
 🔗 [IEEE Xplore (official version)](https://doi.org/10.1109/ICC51166.2024.10623120)  
 🔗 [ResearchGate (free access version)](https://www.researchgate.net/publication/383535044_Adaptive_Modulation_in_Underwater_Acoustic_Networks_AMUSE_A_Multi-Armed_Bandit_Approach)  
 🔗 [SciProfiles MDPI (free access version)](https://sciprofiles.com/publication/view/fff4f08a8abe180e0ba924dacb90c3bb)  
-🔗 [Academia.edu (free access version)](https://www.academia.edu/126647080/Adaptive_Modulation_in_Underwater_Acoustic_Networks_AMUSE_A_Multi_Armed_Bandit_Approach)[https://doi.org/10.1109/ICC51166.2024.10623120](https://doi.org/10.1109/ICC51166.2024.10623120)  
+🔗 [Academia.edu (free access version)](https://www.academia.edu/126647080/Adaptive_Modulation_in_Underwater_Acoustic_Networks_AMUSE_A_Multi_Armed_Bandit_Approach)
 
 ### 📌 Journal Article:
 **Busacca, F., Galluccio, L., Palazzo, S., Panebianco, A., & Raftopoulos, R. (2025).**  
@@ -95,6 +95,6 @@ In **ICC 2024 - IEEE International Conference on Communications** (pp. 2336-2341
 🔗 [IEEE Xplore (official version)](https://doi.org/10.1109/OJCOMS.2025.3542184)  
 🔗 [ResearchGate (free access version)](https://www.researchgate.net/publication/389014858_AMUSE_a_Multi-Armed_Bandit_Framework_for_Energy-Efficient_Modulation_Adaptation_in_Underwater_Acoustic_Networks)  
 🔗 [SciProfiles MDPI (free access version)](https://sciprofiles.com/publication/view/19faf02da1aeec20482f3103bf335f29)  
-🔗 [Academia.edu (free access version)](https://www.academia.edu/127714786/AMUSE_a_Multi_Armed_Bandit_framework_for_energy_efficient_Modulation_Adaptation_in_Underwater_Acoustic_Networks)[https://doi.org/10.1109/OJCOMS.2025.3542184](https://doi.org/10.1109/OJCOMS.2025.3542184)  
+🔗 [Academia.edu (free access version)](https://www.academia.edu/127714786/AMUSE_a_Multi_Armed_Bandit_framework_for_energy_efficient_Modulation_Adaptation_in_Underwater_Acoustic_Networks)
 
 For a comprehensive understanding of AMUSE and its applications, we encourage citing these works.
