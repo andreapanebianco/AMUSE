@@ -1,4 +1,4 @@
-# AMUSE: Multi-Armed Bandit-based Smart Modulation Adaptation
+# Adaptive modulation in underwater acoustic networks (AMUSE): A multi-armed bandit approach
 
 ## Introduction
 UnderWater (UW) communications present significant challenges due to their harsh environment, leading to high data corruption and loss. UW communication channels experience:
@@ -56,7 +56,7 @@ wandb login
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/amuse.git
+git clone -b master https://github.com/andreapanebianco/AMUSE
 cd amuse
 ```
 
