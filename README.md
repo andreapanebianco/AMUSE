@@ -78,22 +78,17 @@ chmod +x Bash_simulation.sh  # Make the script executable
 
 ## Citation
 AMUSE was designed and developed as part of our research. The following publications provide a detailed explanation of its implementation, methodology, and performance evaluation:
-```
-@inproceedings{busacca2024adaptive,
-  title={Adaptive modulation in underwater acoustic networks (AMUSE): A multi-armed bandit approach},
-  author={Busacca, F and Galluccio, L and Palazzo, S and Panebianco, A and Raftopoulos, R},
-  booktitle={ICC 2024-IEEE International Conference on Communications},
-  pages={2336--2341},
-  year={2024},
-  organization={IEEE}
-}
 
-@article{busacca2025amuse,
-  title={AMUSE: a Multi-Armed Bandit Framework for Energy-Efficient Modulation Adaptation in Underwater Acoustic Networks},
-  author={Busacca, Fabio and Galluccio, Laura and Palazzo, Sergio and Panebianco, Andrea and Raftopoulos, Raoul},
-  journal={IEEE Open Journal of the Communications Society},
-  year={2025},
-  publisher={IEEE}
-}
-```
+### 📌 Conference Paper:
+**Busacca, F., Galluccio, L., Palazzo, S., Panebianco, A., & Raftopoulos, R. (2024, June).**  
+*Adaptive modulation in underwater acoustic networks (AMUSE): A multi-armed bandit approach.*  
+In **ICC 2024 - IEEE International Conference on Communications** (pp. 2336-2341). IEEE.  
+🔗 [https://doi.org/10.1109/ICC51166.2024.10623120](https://doi.org/10.1109/ICC51166.2024.10623120)  
+
+### 📌 Journal Article:
+**Busacca, F., Galluccio, L., Palazzo, S., Panebianco, A., & Raftopoulos, R. (2025).**  
+*AMUSE: a Multi-Armed Bandit Framework for Energy-Efficient Modulation Adaptation in Underwater Acoustic Networks.*  
+**IEEE Open Journal of the Communications Society.**  
+🔗 [https://doi.org/10.1109/OJCOMS.2025.3542184](https://doi.org/10.1109/OJCOMS.2025.3542184)  
+
 For a comprehensive understanding of AMUSE and its applications, we encourage citing these works.
